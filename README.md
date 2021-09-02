@@ -1,8 +1,8 @@
 # policy-ids
 
-List of verified CNFTs policy ids.
+List of verified CNFTs Policy IDs.
 
-## How to add your policy
+## How to add your Policy ID
 
 1. Fork this repository
 2. Add a file with the name of your project, in lowercase and using snake casing, i.e. `cardinos.json`
@@ -11,8 +11,8 @@ List of verified CNFTs policy ids.
 ```json
 {
     "project": "Cardinos",
+    "description": "Cardinos were born from a late night conversation about how simply awesome Dinosaurs and NFTs are.",
     "logo_url": "https://cardinos.io/static/assets/img/logo.png",
-    "about": "Cardinos were born from a late night conversation about how simply awesome Dinosaurs and NFTs are.",
     "social_media": {
         "twitter": "CardinosNFT",
         "discord": "discord.gg/8peMhtCmqw",
@@ -27,9 +27,8 @@ List of verified CNFTs policy ids.
         "010aa7bbd3ccbf5090dca56c59e2b0179f5d8fabbbee5bd002a655df"
     ]
 }
-
 ```
-NOTE: If you have any questions just reach out to one of our developers.
+**NOTE: If you have any questions just reach out to one of our developers.**
 
 ## Approval procedure
 
