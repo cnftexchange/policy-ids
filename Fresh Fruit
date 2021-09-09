@@ -1,0 +1,14 @@
+{
+    "project": "Fresh Fruit",
+    "description": "Fresh Fruit Enjoying Fresh Greens.",
+    "logo_url": "https://cardinos.io/static/assets/img/logo.png",
+    "social_media": {
+        "twitter": "@fedstonks",
+    },
+    "tags": [
+        "AVicks", "Fresh Fruit", "Not For Todd"
+    ],
+    "policies": [
+        "5ab37742acbaebf222fba96b6306373dc9b0a5705945d508945f64b2",
+    ]
+}
